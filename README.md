@@ -294,4 +294,3 @@ __pycache__/
 
 ---
 
-*This project is part of my hands-on learning journey in Generative AI, LangChain, and LLM application development.*
